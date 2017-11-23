@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">pokeAPI</string>
+    <string name="maps">Mapas</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
